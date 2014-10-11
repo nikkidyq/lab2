@@ -35,3 +35,4 @@ public class Y extends ActionSupport  {
 	}
 
 }
+//y.java

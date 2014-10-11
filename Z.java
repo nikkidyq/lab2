@@ -26,3 +26,4 @@ public class Z extends ActionSupport  {
 		return SUCCESS;
 	}
 }
+//z.java

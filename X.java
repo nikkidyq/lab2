@@ -39,3 +39,4 @@ public class X extends ActionSupport  {
 	}
 
 }
+//x.java
